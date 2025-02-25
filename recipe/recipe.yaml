@@ -31,7 +31,6 @@ tests:
         - sentinel
       pip_check: true
       python_version: ${{ python_min }}.*
-        
 
 about:
   summary: Create sentinel objects, akin to None, NotImplemented, Ellipsis
